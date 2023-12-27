@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: pink;
+}
+
+.question {
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 3rem;
+}
+
+.shy-bear {
+  background-color: rgb(236, 236, 149);
+  border-radius: 100%;
+  border: 10px solid rgb(199, 140, 160);
+}
+
+.shy-bear:hover #cute-bear {
+  content: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc4bXI3bWo3d3Vndmd5eWVjM2VldnJ6d3U0OWtldjJtMmJzd2NrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3S0ASFkP85cvCXEkSl/giphy.gif);
+}
+
+.button-answers {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.button {
+  margin: auto;
+}
+
+.button button {
+  font-size: 45px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  background-color: beige;
+  width: 200px;
+  height: 75px;
+  border: 5px solid rgb(199, 140, 160);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.button :hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
