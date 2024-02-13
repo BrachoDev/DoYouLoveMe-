@@ -1,0 +1,3 @@
+Bear = https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczcjRlaXA1ZzJ5eGl3eTRxdTYwMDBzNTd3cDdnYjExaXZqdWc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/153esH881MQG6ReT6v/giphy.gif;
+Sad Jungkook = https://i.pinimg.com/originals/cd/37/9a/cd379a83cdf6f6d4cf9775205244eea2.gif;
+Happy Jungkook = https://media.tenor.com/PU0m56hQRmMAAAAC/artygcf-jungkook-heart.gif;
