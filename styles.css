@@ -1,5 +1,5 @@
 body {
-  font-family: 'Brush Script MT', cursive;
+  font-family: "Brush Script MT", cursive;
   background-color: rgb(250, 208, 215);
   margin: 0;
   padding: 0;
@@ -14,12 +14,25 @@ body {
   text-align: center;
 }
 
+h1 {
+  padding: 3px;
+  color: #c71734;
+  letter-spacing: 0.1em;
+}
+
 img {
   max-width: 80%;
+}
+
+img:hover {
+  content: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc4bXI3bWo3d3Vndmd5eWVjM2VldnJ6d3U0OWtldjJtMmJzd2NrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3S0ASFkP85cvCXEkSl/giphy.gif);
 }
 
 .answer-buttons {
 }
 
 button {
+  background-color: bisque;
+  border: 2px SOLID rgb(255, 116, 116);
+  border-radius: 5px;
 }

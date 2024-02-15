@@ -1,0 +1,27 @@
+body {
+  font-family: "Brush Script MT", cursive;
+  background-color: rgb(250, 208, 215);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  padding: 3px;
+  color: #c71734;
+  letter-spacing: 0.1em;
+}
+
+img {
+  max-width: 80%;
+  border: #c71734 solid 5px;
+  border-radius: 20%;
+}
